@@ -34,3 +34,8 @@ a {
 ::-webkit-scrollbar-track {
   background-color: transparent;
 }
+
+.shadows {
+  filter: brightness(70%)
+}
+
